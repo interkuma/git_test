@@ -2,6 +2,6 @@
 
 int main( int argc, char* argv[] )
 {
-	printf("Hello World repos");
+	printf("Hello World remote");
 	return 0;
 }
